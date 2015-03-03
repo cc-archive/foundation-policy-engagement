@@ -8,5 +8,5 @@ add description
 | ------------- | ------------- |
 | Driver  | [Tim Vollmer](https://github.com/tvol)  |
 | Approvers  | [Jonathan Tuttle](https://github.com/jtuttle)  |
-| Contributors | [Cable Green](https://github.com/cablegreen) |
+| Contributors | [Cable Green](https://github.com/cablegreen) [Diane Peters](https://github.com/peterspdx)|
 | Informed | Add yourselves here |
