@@ -2,8 +2,8 @@
 
 Creative Commons will create systemic tools out of lessons from existing policies in order promote open policy adoption within philanthropic foundations. We began a listening process with foundations through an earlier project. We will extend that process and develop a website or portal on the CC website dedicated to open licensing needs of foundation staff and grantees. The website will include the following types of resources, with a specific focus for foundation staff and foundation grantees:
 
--licensing how-to guides for foundation staff and grantees;
--best practices for marking/attribution;
+* licensing how-to guides for foundation staff and grantees;
+* best practices for marking/attribution;
 -benefits to open licensing;
 -case studies of existing foundation open policies;
 -database of existing IP policy texts from existing foundation policies;
