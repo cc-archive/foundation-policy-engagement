@@ -1,4 +1,4 @@
-# foundation-policy-engagement
+# Foundation Policy Engagement
 
 Creative Commons will create systemic tools out of lessons from existing policies in order promote open policy adoption within philanthropic foundations. We began a listening process with foundations through an earlier project. We will extend that process and develop a website or portal on the CC website dedicated to open licensing needs of foundation staff and grantees. The website will include the following types of resources, with a specific focus for foundation staff and foundation grantees:
 
